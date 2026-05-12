@@ -1,4 +1,4 @@
-package com.example.taller_recetas
+package com.example.recetas
 
 import org.junit.Test
 
